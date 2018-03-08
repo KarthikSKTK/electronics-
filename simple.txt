@@ -1,0 +1,6 @@
+#inlcude<iostream>
+
+void main()
+{
+ printf("this is online");
+}
